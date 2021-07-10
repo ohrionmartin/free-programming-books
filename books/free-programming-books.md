@@ -382,7 +382,7 @@
 * [Azure for Architects, Third Edition](https://azure.microsoft.com/en-us/resources/azure-for-architects/) (PDF) *(email address or account required)*
 * [Azure Functions Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly) (PDF, Kindle) (email address requested, not required)
 * [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/) - Ian Foster, Dennis B. Gannon (:construction: *in process*)
-* [Cloud Design Patterns](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
+* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf) - Iain Foulds (PDF)
 * [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
@@ -679,6 +679,7 @@
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
 * [Hello SDL](https://lazyfoo.net/tutorials/SDL) - Lazy Foo' Productions
 * [High-Performance Scientific Computing](https://andreask.cs.illinois.edu/Teaching/HPCFall2012) (class lectures and slides)
+* [Holm School (You Might Learn Something) - How to Teach Yourself To Be A Computer Scientist for Hamiltons a Month](https://ryheimat.github.io/holm-school) - Ryhen Holm
 * [HoloLens Succinctly](https://www.syncfusion.com/ebooks/hololens_succinctly) - Lars Klint
 * [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html) - R. Young
 * [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf) (PDF)
@@ -1453,7 +1454,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Fortran
 
-* [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf) (PDF)
 * [Professional Programmer’s Guide to Fortran77](https://www.star.le.ac.uk/~cgp/prof77.pdf) (PDF)
 * [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) (PDF)
 
@@ -2557,6 +2557,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](https://web.archive.org/web/20181130092020/http://www.effectivedjango.com/) (1.5)
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
+* [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
 
 
 #### Flask
